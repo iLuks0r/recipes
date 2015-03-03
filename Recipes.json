@@ -1,5 +1,21 @@
 [
     {
+        "name": "Rodimus Prime",
+        "ingredients": [
+            { "quantity": "1",
+                "name": "Hot Rod",
+                "type": "Autobot"
+            },
+            { "quantity": "1",
+                "name": "Leadership Matrix",
+                "type": "Accessory"
+            }],
+        "steps": ["Get Hot Rod", "Add Matrix", "Open Matrix!"],
+        "timers": [0,0,0],
+        "imageURL": "http://thumbs.ebaystatic.com/d/l96/m/mxkmGio7L2slQYKyYwm-D4w.jpg",
+        "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
+    },
+    {
         "name": "Big Beef",
         "ingredients": [
             { "quantity": "1",
