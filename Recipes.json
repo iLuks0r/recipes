@@ -1,5 +1,17 @@
 [
     {
+        "name": "Big Beef",
+        "ingredients": [
+            { "quantity": "1",
+                "name": "Beef!",
+                "type": "Meat"
+            }],
+        "steps": ["Get Beef", "Cook!"],
+        "timers": [0,0],
+        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+        "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
+    },
+    {
         "name": "A Mom's Pot Roast",
         "ingredients": [
             {
